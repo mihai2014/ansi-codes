@@ -1,0 +1,9 @@
+Using Ansi Escape codes in linux
+
+More details at: http://ascii-table.com/ansi-escape-sequences.php
+
+Usage: include ansi_codes.py and use codes in printing line as needed
+
+Example usage: 
+	python3 ansi_codes.py
+	python test.py
